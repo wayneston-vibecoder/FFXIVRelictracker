@@ -1,0 +1,9 @@
+{
+  "name": "occultum-relic-tracker",
+  "private": true,
+  "type": "module",
+  "description": "Phantom Weapons Occultum (IL 795) shared tracker for Woven, Charli and Mimikyu",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.11"
+  }
+}
